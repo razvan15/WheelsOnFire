@@ -15,6 +15,7 @@
  #Stuff that change all the time
  Intermediate/
  Saved/
+ Build/
 
 # Windows image file caches
 Thumbs.db
