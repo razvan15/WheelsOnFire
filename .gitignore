@@ -16,6 +16,12 @@
  Intermediate/
  Saved/
  Build/
+ Intermediate/**
+ Saved/**
+ Build/**
+ Intermediate
+ Saved
+ Build
 
 # Windows image file caches
 Thumbs.db
