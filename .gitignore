@@ -1,3 +1,21 @@
+# File Types known to be unecessary
+ *.rar
+ *.swp
+ *.bin
+ *.checkpoint
+ *ShaderCache*
+ *PCTOC*
+ *.log
+ *.obj
+ *IphoneTOC*
+ *.dmp
+ *.u
+ *.url
+ 
+ #Stuff that change all the time
+ Intermediate/
+ Saved/
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
